@@ -23,6 +23,7 @@ Continuous Listening: Developed logic to allow the assistant to listen for wake 
 Multilingual Support: Integrating custom datasets to support Oriya for better local understanding.
 
 📫 Connect with me
+
 LinkedIn: [www.linkedin.com/in/debapriya-rout2804]
 
 Email: [debapriyarout2u@gmail.com]
